@@ -1,0 +1,6 @@
+foolbox>=1.2.0
+numpy>=1.14.2
+scipy
+git+https://github.com/bethgelab/adversarial-vision-challenge
+randomgen>=1.14.4
+tensorflow-gpu==1.8.0

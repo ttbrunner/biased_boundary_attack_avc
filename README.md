@@ -8,7 +8,7 @@ This code is our final submission to the **NeurIPS 2018 Adversarial Vision Chall
 We achieved second place with this submission to the **Targeted Attack** track. See [the leaderboard](https://www.crowdai.org/challenges/nips-2018-adversarial-vision-challenge-targeted-attack-track/leaderboards) and [the final results](https://medium.com/bethgelab/results-of-the-nips-adversarial-vision-challenge-2018-e1e21b690149).
 
 
-Also check out our results for the other tracks:
+All of our submissions are also available on crowdAI:
 - [Robust Model](https://gitlab.crowdai.org/ttbrunner/nips18-model/) (scored 6th place)
 - [Untargeted Attack](https://gitlab.crowdai.org/ttbrunner/nips18-untargeted-attack/) (scored 5th place)
 - [Targeted Attack](https://gitlab.crowdai.org/ttbrunner/nips18-targetted-attack/) (this, scored 2nd place)
